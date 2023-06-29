@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<head>
-    
-</head>
-<body>
     <script>
         document.cookie = "customer_login=idprecieux; SameSite=None"
         window.addEventListener('load', function () {
@@ -51,4 +46,3 @@
         sendMessage()
 
     </script>
-</body>
